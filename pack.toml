@@ -1,0 +1,13 @@
+name = "Play House"
+author = "Scott & Alex Horsley"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2fde530f285e1cf68b31b616b44df615373b9f335484f5057491e9ec101693ef"
+
+[versions]
+forge = "47.3.1"
+minecraft = "1.20.1"
