@@ -10,11 +10,7 @@ A basic mack of Minecraft mods to allow group play, investigation, creation and 
 
 ## Loader
 
-Current: Fabric
-
-To be decided.
-
-Historically I've used Forge for all packs, however, I would like to use Fabric if at all possible during this server instance.
+Current: Forge
 
 ## Goals
 
