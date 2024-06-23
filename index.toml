@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "2cb278f14945a240f2c8d649308815b056b0cf29f7ab7cf4d64bbccb4b0c69b1"
+
+[[files]]
 file = "README.md"
-hash = "72dc0e7ed37c88f5c1c046ca8281c5860df50bd40eba96481a36070677af9877"
+hash = "bff1bd1136fa0a05f9f3fc0b9a0cd64ae63a81317c45c606632ccbf2debc1348"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
